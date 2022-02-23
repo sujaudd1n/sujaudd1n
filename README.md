@@ -6,13 +6,13 @@ I compete in various competitions on problem solving, CTF etc. Apart from these,
 stack **web** development, mobile development, **advanced low level programming** and others.  
 I write articles on various topics and supportive of open source.
 
-## About me
+## Interests
 
-:arrow_right: Exploring AI and cyber security.  
-:arrow_right: I love doing competitiveprogramming and CTF.  
+:arrow_right: AI and cyber security.  
+:arrow_right: Competitive programming and CTF.  
 :arrow_right: Advanced low level programming.  
 :arrow_right: Extreme sports like parkour.  
-:arrow_right: Exploration and travel.  
+:arrow_right: Exploration.  
 
 ## Contact
 
