@@ -2,8 +2,8 @@
 # Hello
 
 I am Sujauddin. I study computer science. Exploring **AI** specially **AGI** and **cyber security**.  
-I compete in various competitions on problem solving, CTF etc. Apart from these, I do full  
-stack **web** development, mobile development, **advanced low level programming** and others.  
+I like competing in various competitions on problem solving. Apart from these, I do full  
+stack **web** development, mobile development and others.  
 I write articles on various topics and supportive of open source.
 
 ## Interests
