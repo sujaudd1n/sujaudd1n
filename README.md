@@ -7,6 +7,6 @@ and contributions, where I strive to make a meaningful impact in the field of te
 
 ## Contact
 
-:email: Email `ssujj at protonmail dot com`  
-:pen: [twitter.com/ssujaudd1n](https://twitter.com/ssujaudd1n)
+:email: Email: `ssujj at protonmail dot com`  
+:pen: Twitter: [twitter.com/ssujaudd1n](https://twitter.com/ssujaudd1n)
 
