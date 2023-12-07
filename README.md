@@ -1,4 +1,4 @@
-Hi, I do **Software Engineering**. Besides that, my primary areas of interest are **artificial intelligence** and **cyber security**. 
+<!--Hi, I do **Software Engineering**. Besides that, my primary areas of interest are **artificial intelligence** and **cyber security**. 
 
 I am passionate about creating innovative and effective software solutions that solve real-world problems.
 My areas of interest are AI and cyber security.I strongly support **open-source development** and believe 
@@ -9,4 +9,17 @@ and contributions, where I strive to make a meaningful impact in the field of te
 
 :email: Email: `ssujj at protonmail dot com`  
 :pen: Twitter: [twitter.com/ssujaudd1n](https://twitter.com/ssujaudd1n)
-
+-->
+```json
+{
+    "name": "Sujauddin",
+    "me": "https://sujauddin.me",
+    "profession": "Software Engineer",
+    "interests": [
+        "Artificial Intelligence",
+        "Cybersecurity"
+    ],
+    "email": "ssujj at protonmail dot com",
+    "x": "@ssujaudd1n"
+}
+``` 
