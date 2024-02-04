@@ -13,13 +13,11 @@ and contributions, where I strive to make a meaningful impact in the field of te
 ```json
 {
     "name": "Sujauddin",
-    "me": "https://sujauddin.me",
+    "web": "https://sujauddin.me",
     "profession": "Software Engineer",
     "interests": [
         "Artificial Intelligence",
         "Cybersecurity"
-    ],
-    "email": "ssujj at protonmail dot com",
-    "x": "@ssujaudd1n"
+    ]
 }
 ``` 
