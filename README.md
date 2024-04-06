@@ -20,4 +20,7 @@ and contributions, where I strive to make a meaningful impact in the field of te
         "Cybersecurity"
     ]
 }
-``` 
+```
+||||||
+|-|-|-|-|-|
+|<img src="https://media1.tenor.com/m/XYVeDKQGSjMAAAAd/cat-dancing-gif.gif" width=100>|<img src="https://media1.tenor.com/m/sAqMHb0yzHgAAAAd/dancing-cat-jump-cat.gif" width=100>|<img src="https://media1.tenor.com/m/Pq5EqV3tfrMAAAAC/cat-scream-cat-screaming.gif" width=100>|<img src="https://media1.tenor.com/m/Jud4LG0uSz4AAAAC/hanna-ball-kitten-soft-fluffy-kitty-cat-paws.gif" width=100>|<img src="https://media1.tenor.com/m/XYVeDKQGSjMAAAAd/cat-dancing-gif.gif" width=100>|
