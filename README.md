@@ -16,8 +16,7 @@ and contributions, where I strive to make a meaningful impact in the field of te
     "web": "https://sujauddin.me",
     "profession": "Software Engineer",
     "interests": [
-        "Artificial Intelligence",
-        "Cybersecurity"
+        "Artificial Intelligence"
     ]
 }
 ```
